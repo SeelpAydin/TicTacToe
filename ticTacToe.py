@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from os import system
 from platform import system as platform
 
